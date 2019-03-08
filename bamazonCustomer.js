@@ -1,0 +1,1 @@
+Initial customer js file
