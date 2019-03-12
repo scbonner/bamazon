@@ -1,5 +1,11 @@
-### Contribution Guidelines
-
-### Connection, coding and creation of mysql and node files
-
-### Final product, app info for project
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "\"\",",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
